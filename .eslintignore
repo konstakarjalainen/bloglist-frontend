@@ -2,3 +2,4 @@ node_modules
 build
 .eslintrc.js
 setupProxy.js
+cypress.config.js
